@@ -2,8 +2,6 @@
   "name": "@repro/unused-lib",
   "version": "0.0.0",
   "private": true,
-  "description": "The trigger. Nothing imports this package.",
-  "devDependencies": {
-    "@babel/core": "^7.26.0"
-  }
+  "description": "Control: @babel/core removed.",
+  "devDependencies": {}
 }

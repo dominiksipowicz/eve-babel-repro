@@ -1,0 +1,7 @@
+{
+  "name": "demo-agent",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Project marker for eve's named-agent discovery.",
+  "dependencies": { "eve": "0.52.2" }
+}
